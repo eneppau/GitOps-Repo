@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "example" {
-  name     = "rg-fluxterraform"
+  name     = "np-fluxterraform"
   location = "eastus"
 }
 
